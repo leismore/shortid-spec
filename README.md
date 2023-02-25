@@ -1,4 +1,24 @@
-# Leismore Short ID Specification v1.0.0
+# Leismore Short ID Specification v2.0.0 LTS
+
+
+
+
+------------------------------------------------------------------------------
+
+26 February 2023
+
+## Authors
+
+* Kyle Chine [Leismore](https://www.leismore.co) <https://kylechine.leismore.co>
+
+## Copyright
+
+GNU Free Documentation License Version 1.3
+
+------------------------------------------------------------------------------
+
+
+
 
 ## Introduction
 
