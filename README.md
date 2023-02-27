@@ -1,4 +1,4 @@
-# Leismore ShortID Specification v3.0.0 LTS
+# Leismore ShortID Specification v3.0.1 LTS
 
 
 
@@ -13,11 +13,11 @@
 
 ## Copyright
 
-[GNU Free Documentation License Version 1.3](https://lmos.leismore.org/shortid-spec/v3-0-0/rep/LICENSE)
+[GNU Free Documentation License Version 1.3](https://lmos.leismore.org/shortid-spec/v3-0-1/rep/LICENSE)
 
 ## Canonical URLs
 
-* This version: <https://lmos.leismore.org/shortid-spec/v3-0-0/rep/README.md>
+* This version: <https://lmos.leismore.org/shortid-spec/v3-0-1/rep/README.md>
 * Latest version: <https://lmos.leismore.org/shortid-spec/latest/rep/README.md>
 
 * Project Homepage: <https://lmos.leismore.org/shortid-spec>
