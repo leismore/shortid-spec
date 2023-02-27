@@ -1,11 +1,11 @@
-# Leismore Short ID Specification v2.0.0 LTS
+# Leismore ShortID Specification v3.0.0 LTS
 
 
 
 
 ------------------------------------------------------------------------------
 
-26 February 2023
+27 February 2023
 
 ## Authors
 
@@ -13,7 +13,15 @@
 
 ## Copyright
 
-GNU Free Documentation License Version 1.3
+[GNU Free Documentation License Version 1.3](https://lmos.leismore.org/shortid-spec/v3-0-0/rep/LICENSE)
+
+## Canonical URLs
+
+* This version: <https://lmos.leismore.org/shortid-spec/v3-0-0/rep/README.md>
+* Latest version: <https://lmos.leismore.org/shortid-spec/latest/rep/README.md>
+
+* Project Homepage: <https://lmos.leismore.org/shortid-spec>
+* GitHub: <https://github.com/leismore/shortid-spec>
 
 ------------------------------------------------------------------------------
 
@@ -22,7 +30,7 @@ GNU Free Documentation License Version 1.3
 
 ## Introduction
 
-Leismore Short ID is a universally unique identifier based on [Nano ID](https://github.com/ai/nanoid) (Sitnik [2017] 2021). This document describes its purpose, format, recommended comparison method, and other technical details.
+Leismore ShortID is a universally unique identifier based on [Nano ID](https://github.com/ai/nanoid) (Sitnik [2017] 2021). This document describes its purpose, format, recommended comparison method, and other technical details.
 
 ## Purpose and Designing Considerations
 
@@ -43,7 +51,7 @@ Ideally, a universally unique identifier exposing to end-users or external appli
 
 ## Recommended Comparison Method
 
-The `-` characters are used purely for the human readability reason. It must not be considered as a semantics part in Leismore Short ID. While doing ID comparison, it must be removed from the IDs.
+The `-` characters are used purely for the human readability reason. It must not be considered as a semantics part in Leismore ShortID. While doing ID comparison, it must be removed from the IDs.
 
 ## Chance of Collision
 
